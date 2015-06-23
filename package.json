@@ -1,0 +1,24 @@
+{
+  "name": "meteor-deque",
+  "author": "Ben Newman <ben@meteor.com>",
+  "version": "2.1.0",
+  "description": "Wrapper package for double-ended-queue",
+  "keywords": [
+    "meteor",
+    "deque",
+    "queue"
+  ],
+  "main": "index.js",
+  "homepage": "https://github.com/meteor/deque",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/meteor/deque.git"
+  },
+  "bugs": {
+    "url": "https://github.com/meteor/deque/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "double-ended-queue": "2.1.0-0"
+  }
+}
